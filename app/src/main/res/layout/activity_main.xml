@@ -21,7 +21,7 @@
         app:layout_constraintVertical_bias="0.221" />
 
     <CheckBox
-        android:id="@+id/checkBox4"
+        android:id="@+id/cb4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="gry"
@@ -33,7 +33,7 @@
         app:layout_constraintVertical_bias="0.581" />
 
     <CheckBox
-        android:id="@+id/checkBox3"
+        android:id="@+id/cb3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="turystyka"
@@ -45,7 +45,7 @@
         app:layout_constraintVertical_bias="0.468" />
 
     <CheckBox
-        android:id="@+id/checkBox2"
+        android:id="@+id/cb2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="muzyka"
@@ -94,7 +94,7 @@
         app:layout_constraintVertical_bias="0.383" />
 
     <CheckBox
-        android:id="@+id/checkBox"
+        android:id="@+id/cb1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="sport"
@@ -120,7 +120,7 @@
         app:layout_constraintVertical_bias="0.042" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/wiek2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -135,7 +135,7 @@
         app:layout_constraintVertical_bias="0.281" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/wyslij"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"

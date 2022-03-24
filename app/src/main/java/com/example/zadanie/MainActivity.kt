@@ -65,14 +65,6 @@ class MainActivity : AppCompatActivity() {
             games.isEnabled = false
             wiek.isEnabled = false
         }
-        send.setOnClickListener{
-            men.isEnabled = false
-            grl.isEnabled = false
-            sport.isEnabled = false
-            msc.isEnabled = false
-            tr.isEnabled = false
-            games.isEnabled = false
-            wiek.isEnabled = false
-        }
+
     }
 }
